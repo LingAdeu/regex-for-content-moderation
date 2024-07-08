@@ -20,7 +20,7 @@ To replicate my analysis or explore the data further, kindly follow the followin
 git clone https://github.com/LingAdeu/regex-for-content-moderation.git
 ```
 2. Ensure that all necessary dependencies are installed, especially Python and Jupyter Notebook. All libraries are specified on file requirements.txt.
-3. Run my Jupyter Notebook file (`*.ipynb`) in [notebook](https://github.com/LingAdeu/regex-for-content-moderation/blob/main/notebook.ipynb) folder to reproduce the code. Alternatively, kindly check this Jupyter Notebook Viewer [URL](https://nbviewer.org/github/LingAdeu/) to see the notebook.
+3. Run my Jupyter Notebook file (`*.ipynb`) in [notebook](https://github.com/LingAdeu/regex-for-content-moderation/blob/main/notebook.ipynb) folder to reproduce the code. Alternatively, kindly check this Jupyter Notebook Viewer [URL](https://nbviewer.org/github/LingAdeu/regex-for-content-moderation/blob/main/notebook.ipynb) to see the notebook.
 
 ## Feedback
 If there are any questions or suggestions for improvements, feel free to contact me here:
