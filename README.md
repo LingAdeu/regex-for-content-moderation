@@ -3,7 +3,7 @@
 # Regular Expression for Rule-Based Content Moderation
 
 ## About
-This project aims to address the taboo expressions in a computer-mediated communication in a company by detecting and censoring specific elements of a message (e.g., *Shit, I forgot!* $\rightarrow$ \*\*\*\**, I forgot!*). A rule-based approach with regular expression was considered over a machine learning approach due to its efficient implementation, high explainability (for stakeholders), and high possibility of detecting inappropriate expressions if matching the rules. 
+This project aims to address the taboo expressions in a computer-mediated communication in a company by detecting and censoring specific elements of a message (e.g., *"Shit, I forgot!"* $\rightarrow$ \*\*\*\**", I forgot!*)". A rule-based approach with regular expression was considered over a machine learning approach due to its efficient implementation, high explainability (for stakeholders), and high possibility of detecting inappropriate expressions if matching the rules. 
 
 ## Content
     .
